@@ -1,8 +1,8 @@
-오픈소스SW 7조
+오픈소스SW 7조      
 =============
 
 
-과제 : "Open Source Paradigm Shift" 번역 및 요약
+과제 : "Open Source Paradigm Shift" 번역 및 요약       
 ---------------------------------------------
 
 
