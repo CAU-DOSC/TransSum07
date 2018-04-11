@@ -2,7 +2,7 @@
 =============
 
 
-과제 : Open Source Paradigm Shift 번역 및 요약
+과제 : "Open Source Paradigm Shift" 번역 및 요약
 ---------------------------------------------
 
 
