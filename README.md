@@ -22,3 +22,13 @@
 |8 - 11|이한규| |
 |12 - 14|조건상| |
 |15 - 17|임성원| | 
+
+## 용어 정리
+| 영어 | 한국어 |
+|:---:|:---:|
+|open source|오픈소스|
+|open software|공개 소프트웨어|
+|proprietary software|소유권이 있는 소프트웨어|
+|free software|무료 소프트웨어 / 프리웨어|
+|commercial software|상용 소프트웨어|
+|collaboration|협업|
