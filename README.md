@@ -25,10 +25,16 @@
 
 ## 용어 정리
 | 영어 | 한국어 |
-|:---:|:---:|
+|---|---|
 |open source|오픈소스|
 |open software|공개 소프트웨어|
 |proprietary software|소유권이 있는 소프트웨어|
 |free software|무료 소프트웨어 / 프리웨어|
 |commercial software|상용 소프트웨어|
 |collaboration|협업|
+
+## Markdown 문법
+[English version tutorial](https://guides.github.com/features/mastering-markdown/)  
+[한국어 버전](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+
+> 줄바꿀 때 문장되에 `space` 두개 붙여야한다.
