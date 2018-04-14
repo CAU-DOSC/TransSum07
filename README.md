@@ -37,4 +37,4 @@
 [English version tutorial](https://guides.github.com/features/mastering-markdown/)  
 [한국어 버전](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
-> 줄바꿀 때 문장에 `space` 두개 붙여야한다.
+> 줄바꿀 때 문장뒤에 `space` 두개 붙여야한다.
