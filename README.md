@@ -1,4 +1,4 @@
-# 오픈소스SW 7조      
+﻿# 오픈소스SW 7조      
 
 ## 과제 : "Open Source Paradigm Shift" 번역 및 요약
 1. Clone this repository.
@@ -19,8 +19,8 @@
 |--- | --- | :---:|
 |1 - 3|주광우| 100% |
 |4 - 7|정원철| 90% |
-|8 - 11|이한규| |
-|12 - 14|조건상| |
+|8 - 11|이한규| 90% |
+|12 - 14|조건상| 40% |
 |15 - 17|임성원| | 
 
 ## 용어 정리
@@ -38,4 +38,4 @@
 [English version tutorial](https://guides.github.com/features/mastering-markdown/)  
 [한국어 버전](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
-> 줄바꿀 때 문장뒤에 `space` 두개 붙여야한다.
+> 줄바꿀 때 문장뒤에 `space` 두개를 붙여야한다.
