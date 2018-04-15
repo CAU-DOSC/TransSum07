@@ -18,7 +18,7 @@
 | Pages | Name | Progress |  
 |--- | --- | :---:|
 |1 - 3|주광우| 60% |
-|4 - 7|정원철| |
+|4 - 7|정원철| 90% |
 |8 - 11|이한규| |
 |12 - 14|조건상| |
 |15 - 17|임성원| | 
@@ -32,6 +32,7 @@
 |free software|무료 소프트웨어 / 프리웨어|
 |commercial software|상용 소프트웨어|
 |collaboration|협업|
+|commodity|상품|
 
 ## Markdown 문법
 [English version tutorial](https://guides.github.com/features/mastering-markdown/)  
