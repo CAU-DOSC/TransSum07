@@ -21,7 +21,7 @@
 |4 - 7|정원철| 90% |
 |8 - 11|이한규| 90% |
 |12 - 14|조건상| 40% |
-|15 - 17|임성원| | 
+|15 - 17|임성원| 90% | 
 
 ## 용어 정리
 | 영어 | 한국어 |
@@ -33,6 +33,7 @@
 |commercial software|상용 소프트웨어|
 |collaboration|협업|
 |commodity|상품|
+|customizability|사용자 정의 가능성|
 
 ## Markdown 문법
 [English version tutorial](https://guides.github.com/features/mastering-markdown/)  
